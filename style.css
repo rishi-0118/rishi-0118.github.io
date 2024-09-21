@@ -2,7 +2,12 @@
   color:blue;
   font-family:'Comfortaa';
 }
+
 body {
   background:lightblue;
 }
 
+.important {
+  color:darkblue;
+  font-family:'Lato';
+}
