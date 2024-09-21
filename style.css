@@ -15,8 +15,6 @@ body {
 
 a:hover {
   color:green;
-  a:hover 
-  color:green;
 }
 
 .fun {
@@ -26,6 +24,8 @@ font-family:'Comfortaa'
 
 button {
   color:blue;
+    a:hover 
+  color:green;
 }
 
 .images {
