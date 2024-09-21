@@ -29,4 +29,5 @@ button {
 .images {
   height:50px;
   width:auto;
+  display:block;
 }
