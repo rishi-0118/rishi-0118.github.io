@@ -13,7 +13,7 @@ body {
   font-family:'Lato';
 }
 
-a.hover {
+a:hover {
   color:green;
 }
 
